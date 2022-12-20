@@ -1,5 +1,3 @@
-
-<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -9,10 +7,7 @@
     <link href='https://fonts.googleapis.com/css?family=Roboto:400,300,300italic,400italic,500,500italic,700,700italic' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>   
     <link href="https://fonts.googleapis.com/css?family=Dosis:400,500,700" rel="stylesheet" type="text/css"> 
-    <link rel="stylesheet" href="https://connect.csc.gov.in/assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://connect.csc.gov.in/assets/css/font.css"> 
-    <link rel="stylesheet" href="https://connect.csc.gov.in/assets/css/style.css">
-    <link rel="stylesheet" href="https://connect.csc.gov.in/assets/css/responsive.css"> 
+    
     <link rel="icon" type="image/png" href="https://connect.csc.gov.in/assets/img/favicon.png" sizes="24x24"> 
 </head>
 <body>
